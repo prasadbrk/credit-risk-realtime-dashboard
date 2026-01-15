@@ -80,7 +80,7 @@ Databricks workspace (optional for full deployment)
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/credit-risk-realtime-dashboard.git
+git clone https://github.com/prasadbrk/credit-risk-realtime-dashboard.git
 cd credit-risk-realtime-dashboard
 ```
 
@@ -465,10 +465,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Borra RK Prasad
+- LinkedIn: www.linkedin.com/in/brk-prasad
+- GitHub: [@prasadbrk](https://github.com/prasadbrk)
+- Email: borrarkprasad@gmail.com
 
 ---
 
