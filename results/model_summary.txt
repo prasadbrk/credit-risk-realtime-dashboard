@@ -1,0 +1,28 @@
+======================================================================
+CREDIT RISK MODEL - TRAINING SUMMARY (Polars Pipeline)
+======================================================================
+
+Training Date: 2026-01-19 01:02:32
+
+Dataset:
+  Total Records: 50,000
+  Training Set: 40,000
+  Test Set: 10,000
+  Default Rate: 5.46%
+
+Features:
+  Numeric: 26
+  Categorical: 4
+  Total: 30
+
+Model Performance:
+  Accuracy:  0.7801
+  Precision: 0.0706
+  Recall:    0.2491
+  F1 Score:  0.1101
+  AUC-ROC:   0.5382
+
+Pipeline Technology:
+  Data Processing: Polars (Rust-based, parallel)
+  Storage Format: Parquet (partitioned)
+  ML Framework: XGBoost
